@@ -30,7 +30,7 @@ The project has the following requirements:
 - The server must be able to receive strings from several clients in a row without restarting
 - Only two signals are allowed: SIGUSR1 and SIGUSR2
 - The program must handle errors properly
-- 
+
 # Bonus
 The project has the following bonus features:
 
